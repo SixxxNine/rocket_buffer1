@@ -25,7 +25,7 @@
 3. Ao clicar f7 o player poderá comprar ou apenas ver os benefícios.
 4. Ao comprar o vip aparecerá um icone para todos os player do server mostrando o nick do comprador.
 5. Após a compra todos os benefícios será ativado automaticamente na conta.
-6. O comprar irá receber uma tag de vip no servidor e no discord.
+6. O comprador irá receber uma tag de vip no servidor e no discord.
 7. O tempo maximo do vip será de 30 dias.
 
 ## Stacks
